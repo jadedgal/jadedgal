@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DanThePythonMan
 - 🧠 I'm learning to socialise (aren't we all!)
-- 👀 I’m interested in python
-- I am also learning JS
+- 👀 I’m primarily focused on Python
+- I am also learning JS & Rust but having some troubles (any tutors would be appreciated)
