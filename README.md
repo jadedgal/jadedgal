@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DanThePythonMan
 - 🧠 I'm learning to socialise (aren't we all!)
-- 👀 I’m primarily focused on Rust
+- 👀 I’m primarily focused on HTML/JS/CSS
 - I am also learning Rust but having some troubles (any tutors would be appreciated)
